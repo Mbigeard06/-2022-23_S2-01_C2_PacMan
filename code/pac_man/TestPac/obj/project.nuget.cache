@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j64uuqmVY+PkzHqaK7QoO8/YEuSjK0+AHNllClRAqQrFHeAGE5eSwnJXBXIq2Go4LlHlWZoe6N+wgks5WoUQKA==",
+  "dgSpecHash": "vGrrqB4MDgMkEiS6ltStdtuhmFCfPIBP2YjpTiewpWqWthpfyG8tJF6ywe0XZXc6tTW8cNXntNibL9GBz/ARZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateo\\OneDrive\\Bureau\\Project\\2022-23_S2-01_C2_PacMan\\code\\pac_man\\pac_man\\pac_man.csproj",
+  "projectFilePath": "C:\\Users\\mateo\\OneDrive\\Bureau\\Project\\2022-23_S2-01_C2_PacMan\\code\\pac_man\\TestPac\\TestPac.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mateo\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\mateo\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\mateo\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\mateo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -90,7 +91,8 @@
     "C:\\Users\\mateo\\.nuget\\packages\\xunit.assert\\2.4.2\\xunit.assert.2.4.2.nupkg.sha512",
     "C:\\Users\\mateo\\.nuget\\packages\\xunit.core\\2.4.2\\xunit.core.2.4.2.nupkg.sha512",
     "C:\\Users\\mateo\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512",
-    "C:\\Users\\mateo\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512"
+    "C:\\Users\\mateo\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
+    "C:\\Users\\mateo\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -7,4 +7,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TestPac\TestPac.csproj" />
+  </ItemGroup>
+
 </Project>
